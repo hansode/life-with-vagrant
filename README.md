@@ -4,6 +4,7 @@
 
 1. [setup](setup.md)
 2. [vagrantcloud](vagrantcloud.md)
+3. [workflow-with-shell](workflow-with-shell.md)
 
 ## Verifications with Vagrant
 
