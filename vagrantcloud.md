@@ -15,6 +15,7 @@ In order to verify applications, I need minimal Linux boxes.
 
 + Installed Packages
   + RHEL/CentOS Minimal
++ Configured files
   + Static releasever: `/etc/yum/vars/releasever`
 + Account
   + root password to `vagrant`
