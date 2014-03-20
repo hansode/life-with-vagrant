@@ -6,6 +6,7 @@
 2. [vagrantcloud](vagrantcloud.md)
 3. [workflow-with-shell](workflow-with-shell.md)
 4. [vagrantfile](vagrantfile.md)
+5. [vagrantbox](vagrantbox.md)
 
 ## Verifications with Vagrant
 
