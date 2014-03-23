@@ -17,6 +17,7 @@
 + https://github.com/hansode/vipple-testing
 + https://github.com/hansode/keepalived-verification
 + https://github.com/hansode/docker-network-sandbox
++ https://github.com/hansode/linux-kvm-vm-live-migration-verification
 
 ## Other Links
 
