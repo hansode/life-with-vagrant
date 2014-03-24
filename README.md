@@ -10,14 +10,17 @@
 
 ## Verifications with Vagrant
 
-+ https://github.com/hansode/linux-bridge-mac-addresses-and-dynamic-ports
-+ https://github.com/hansode/linux-ethernet-bonding-verification
-+ https://github.com/hansode/linux-ip-address-netmask-verification
-+ https://github.com/hansode/linux-ifcfg-and-resolver-verification
-+ https://github.com/hansode/vipple-testing
-+ https://github.com/hansode/keepalived-verification
-+ https://github.com/hansode/docker-network-sandbox
-+ https://github.com/hansode/linux-kvm-vm-live-migration-verification
++ Network Interface
+  + https://github.com/hansode/linux-bridge-mac-addresses-and-dynamic-ports
+  + https://github.com/hansode/linux-ethernet-bonding-verification
+  + https://github.com/hansode/linux-ip-address-netmask-verification
+  + https://github.com/hansode/linux-ifcfg-and-resolver-verification
++ Networking
+  + https://github.com/hansode/vipple-testing
+  + https://github.com/hansode/keepalived-verification
++ Virtualization
+  + https://github.com/hansode/docker-network-sandbox
+  + https://github.com/hansode/linux-kvm-vm-live-migration-verification
 
 ## Other Links
 
